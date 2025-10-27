@@ -1,0 +1,5 @@
+{
+  "name": "Image to Prompt AI",
+  "description": "An intuitive web application that uses AI to generate descriptive text prompts from your images. Simply drag and drop an image, and let the AI create a detailed prompt for you, complete with animations and a sleek user interface.",
+  "requestFramePermissions": []
+}
